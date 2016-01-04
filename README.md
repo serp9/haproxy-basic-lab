@@ -1,5 +1,6 @@
 # haproxy-basic-lab
-## http://sabotage-networks.blogspot.co.uk/2016/01/vagrant-lab-for-haproxy.html
+In support of the blog post at:
+http://sabotage-networks.blogspot.co.uk/2016/01/vagrant-lab-for-haproxy.html
 
 This sets up a basic lab for testing HAProxy with:
  - 2 x Apache/PHP Webservers
