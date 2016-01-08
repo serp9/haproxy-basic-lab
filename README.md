@@ -12,7 +12,7 @@ Download files and run "vagrant up" in the directory
 
 
 Or copy/paste this:
-'
+'''
 #install software
 sudo apt-get install virtualbox vagrant git
 
@@ -25,4 +25,4 @@ mkdir haproxy-lab && cd haproxy-lab && git clone https://github.com/unixhead/hap
 
 #run the lab
 vagrant up
-'
+'''
